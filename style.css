@@ -1,0 +1,21 @@
+*{
+    margin:none;
+    padding : 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style-type: none;
+}
+
+button{
+    padding: 20px;
+    background-color: lightskyblue;
+    font-family: sans-serif;
+    font-weight: 900;
+}
+
+textarea{
+    width:300px;
+    height: 100px;
+}
